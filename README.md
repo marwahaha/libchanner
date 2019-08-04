@@ -36,7 +36,7 @@ output:
 
     Successfully decoded time struct! value=2015-04-17 11:34:01.046453821 -0700 PDT
 
-Abreviated highlights:
+Abbreviated highlights:
 
 (for demonstration purposes only, error checking omitted for brevity)
 
